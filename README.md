@@ -1,9 +1,9 @@
 # Aviation Accident Analysis
 Overview:
-Analysis of commercial and passenger jet aviation accidents to identify aircraft makes/models with low rates of total destruction and low likelihood of fatal or serious passenger injuries. Provides separate recommendations for small (≤20 passengers) and large (>20 passengers) aircraft.
+Analysis of commercial and passenger jet aviation accidents to identify aircraft makes/models with low rates of total destruction and low likelihood of fatal or serious passenger injuries. Provides separate recommendations for small (<=20 passengers) and large (>20 passengers) aircraft.
 
 Key Findings:
-Small Aircraft (≤20 pax)
+Small Aircraft (<=20 pax)
 - Single-engine models carry structurally higher injury and destruction risk
 - Top-performing Makes show narrow, bottom-heavy injury distributions — consistent low-severity outcomes even in accidents
 - Best candidates: Makes appearing in both lowest injury rate AND lowest destruction rate tables
@@ -16,7 +16,7 @@ Two Statistically Significant Risk Factors:
 - Phase of flight: Approach, landing and takeoff drive both accident frequency and severity
 
 Recommendations:
-SMALL AIRCRAFT (≤20 passengers)
+SMALL AIRCRAFT (<=20 passengers)
 - Recommended Makes: those appearing in BOTH top-15 lowest injury rate AND top-15 lowest destruction rate tables.
 - These makes exhibit consistent, low-variance injury profiles (narrow violin distributions) — ideal for lower-premium products.
 - Caution: single-engine models have structurally higher risk require higher minimums for pilot hours and avionics standards.
